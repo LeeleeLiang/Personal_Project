@@ -5,7 +5,6 @@
 - Fit given line to two dimensional data points using the following linear least square techniques:
   1. Line fitting using Linear Least Squares
   2. Reduce overfitting using Regularization (ridge regression)
-
 ![Image of Data](https://github.com/LeeleeLiang/Personal_Project/blob/main/CompVision_Linear%20Least%20Squares/data.jpeg)
 
 
