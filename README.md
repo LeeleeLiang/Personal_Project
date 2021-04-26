@@ -7,9 +7,6 @@
   2. Reduce overfitting using Regularization (ridge regression)
 ![Image of Data](https://github.com/LeeleeLiang/Personal_Project/blob/main/CompVision_Linear%20Least%20Squares/data.jpeg)
 
-
-
-
 **Computer Vision - Eigenfaces for face recognition**
 - Match given test image to every image in a gallery and find a match that is the most similar to the test image. Technique used:
   1. Implemented principal components analysis technique to represent faces in a lower dimensional space and to recognize them.       
@@ -19,3 +16,8 @@
 - Implemented and practiced SIFT on a set of images from Caltech-101 dataset. Technique used:
   1. SIFT.       
 ![Image of Dolphin_keypoints](https://github.com/LeeleeLiang/Personal_Project/blob/main/CompVision_SIFT/dolphin_keypoints.jpeg)
+
+**Computer Vision - Panorama Stitching**
+- Implemented an end-to-end pipeline for panorama stitching. Technique used:
+  1. End-to-end pipeline.       
+![Image of System_diagram](https://github.com/LeeleeLiang/Personal_Project/blob/main/CompVision_Panorama%20Stitching/system_diagram.png)
