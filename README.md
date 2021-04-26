@@ -13,4 +13,5 @@
 
 **Computer Vision - Eigenfaces for face recognition**
 - Match given test image to every image in a gallery and find a match that is the most similar to the test image. Techniques used:
-  1. Implemented principal components analysis technique to represent faces in a lower dimensional space and to recognize them.
+  1. Implemented principal components analysis technique to represent faces in a lower dimensional space and to recognize them.       
+![Image of Faces](https://github.com/LeeleeLiang/Personal_Project/blob/main/CompVision_Eigenfaces%20for%20face%20recognition/faces.png)
