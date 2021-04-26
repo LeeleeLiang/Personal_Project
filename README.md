@@ -6,6 +6,10 @@
   1. Line fitting using Linear Least Squares
   2. Reduce overfitting using Regularization (ridge regression)
 
+![Image of Data](https://github.com/LeeleeLiang/Personal_Project/blob/main/CompVision_Linear%20Least%20Squares/data.jpeg)
+
+
+
 
 **Computer Vision - Eigenfaces for face recognition**
 - Match given test image to every image in a gallery and find a match that is the most similar to the test image. Techniques used:
