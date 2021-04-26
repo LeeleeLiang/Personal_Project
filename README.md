@@ -11,6 +11,11 @@
 
 
 **Computer Vision - Eigenfaces for face recognition**
-- Match given test image to every image in a gallery and find a match that is the most similar to the test image. Techniques used:
+- Match given test image to every image in a gallery and find a match that is the most similar to the test image. Technique used:
   1. Implemented principal components analysis technique to represent faces in a lower dimensional space and to recognize them.       
 ![Image of Faces](https://github.com/LeeleeLiang/Personal_Project/blob/main/CompVision_Eigenfaces%20for%20face%20recognition/faces.png)
+
+**Computer Vision - Implementation of Scale Invariant Feature Transform (SIFT)**
+- Implemented and practiced SIFT on a set of images from Caltech-101 dataset. Technique used:
+  1. SIFT.       
+![Image of Dolphin_keypoints](https://github.com/LeeleeLiang/Personal_Project/blob/main/CompVision_SIFT/dolphin_keypoints.jpeg)
