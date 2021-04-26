@@ -21,3 +21,9 @@
 - Implemented an end-to-end pipeline for panorama stitching. Technique used:
   1. End-to-end pipeline.       
 ![Image of System_diagram](https://github.com/LeeleeLiang/Personal_Project/blob/main/CompVision_Panorama%20Stitching/system_diagram.png)
+
+**Computer Vision - Image Classification Using Bag of Features and Support Vector Machines**
+- Implemented an image classifier. Built Support Vector Machine (SVM) classifier to classify images of Caltech-101 dataset. Technique used:
+  1. SVM classifier
+  2. Bag (histogram)
+![Image of proj3](https://github.com/LeeleeLiang/Personal_Project/blob/main/CompVision_Image%20Classification/proj3.png)
